@@ -29,7 +29,11 @@ A définir
 ## Executer les tests
 
 ```
+<<<<<<< HEAD
 Modification locale ici !!!
+=======
+Ici la modification depuis GitHub.
+>>>>>>> e2494d6cd1b3042d10d3075f47b539cf5c213d1d
 ```
 
 
